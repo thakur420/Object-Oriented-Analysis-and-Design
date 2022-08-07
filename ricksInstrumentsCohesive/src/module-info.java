@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author indjt
+ *
+ */
+module ricksInstrumentsCohesive {
+}
